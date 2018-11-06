@@ -1,1 +1,2 @@
 # MySourceAndLib
+printf("hello world!");
